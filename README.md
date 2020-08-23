@@ -10,3 +10,4 @@ Get LILIN network products setup in a local network.
 * Knowledge of using C# language
 * LILIN HTTP CGI SDKs
 
+![alt tag](https://github.com/LILINOpenGitHub/LILIN-MJPEG-video-stream-with-CGI-SDK-for-NAV-NVR-DVR-and-IP-camera/blob/master/Universal%20MJPG%20SDK/getCMAalarmmotion.png?raw=true)
