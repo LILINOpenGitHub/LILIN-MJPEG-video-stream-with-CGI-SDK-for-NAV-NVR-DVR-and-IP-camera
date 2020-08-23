@@ -1,4 +1,4 @@
-# LILIN-MJPEG-video-stream-with-CGI-SDK-for-NAV-NVR-DVR-and-IP-camera
+# LILIN MJPEG video stream with CGI SDK for NAV, NVR/DVR, and IP camera
 LILIN MJPEG video stream with CGI SDK for NAV, NVR/DVR, and IP camera
 <BR>
 This is C# example code for MJPG video of LILIN NAV, NVR/DVR, and IP cameera products.  The sample code also shows how to interface with LILIN NAV, NVR/DVR, and IP cameera products.
